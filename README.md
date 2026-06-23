@@ -6,24 +6,7 @@
 <table>
 <tr>
 
-<!-- =================== LEFT COLUMN: PROFILE + BIO =================== -->
-<td width="30%" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/226516101?v=4" width="170" alt="Kugendran Naidoo" />
-
-### Kugendran Naidoo
-
-**Quantum Machine Learning Researcher**
-
-PhD candidate building hybrid classical-quantum models at the intersection of Topological Data Analysis and Graph Neural Networks. Published in *Physical Review A* and *ICLR*; named inventor on a US quantum-computing patent.
-
-📍 London, UK
-
-[LinkedIn](https://www.linkedin.com/in/kugendran/)
-
-Open to collaboration with Quantum & AI accelerators
-
-</td>
 
 <!-- =================== RIGHT COLUMN: SECTIONS =================== -->
 <td width="70%" valign="top">
@@ -52,11 +35,9 @@ Open to collaboration with Quantum & AI accelerators
 
 ## Education
 
-**PhD, Quantum Machine Learning** *(in progress)*
-[TODO: University] — Topological Data Analysis + GNNs
+**PhD, Quantum Machine Learning** *(in progress)* — University of the Witwatersrand — Topological Data Analysis + GNNs
 
-**[TODO: MSc / BSc degree]**
-[TODO: University, Year]
+**Master of Science (Quantum Machine Learning)** — University of the Witwatersrand —
 
 ---
 
