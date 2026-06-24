@@ -33,21 +33,23 @@
 
 ---
 
-## Education
+## Education  
 
-**PhD, Quantum Machine Learning** *(in progress)* — University of the Witwatersrand — Topological Data Analysis + GNNs
+**PhD, Quantum Machine Learning** *(in reveiw)* — University of the Witwatersrand — Topological Data Analysis + GNNs
 
-**Master of Science (Quantum Machine Learning)** — University of the Witwatersrand —
+**Master of Science (Quantum Machine Learning)** — University of the Witwatersrand — Quantum Machine Lerning + Topological data Analysis 
+
+**IBM Quallifactions** — Cloud Solutions + Global Sales + Global Technachal Ledership + Quantum Asossiate Ambassadorship — see Linkedin for details
 
 ---
 
-## Selected Work
+## Career Highlights
 
-**[TODO: Job title] — [Company]** *(Year–Year)*
-One line that sells it: the headline result or scope. e.g. "Led X that delivered Y, measured by Z."
+**Co-Founder & CSO — Qubitra** *(Jan 2026 - Present)*
+Building Quantum, and Quantum Impired Algorithms that Improve the effeciancy of financial services
 
-**[TODO: Job title] — [Company]** *(Year–Year)*
-One line that sells it.
+**Executive Director — J.P. Morgan** *(Apr 2024 - Sep 2025)*
+Drove the Design and Development of Advanced Statistical and AI/ML Platform Solutions
 
 **[TODO: Job title] — [Company]** *(Year–Year)*
 One line that sells it.
