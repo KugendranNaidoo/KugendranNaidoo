@@ -68,10 +68,10 @@ Building Quantum, and Quantum Impired Algorithms that Improve the effeciancy of 
 **Executive Director — J.P. Morgan** *(Apr 2024 - Sep 2025)*
 Drove the Design and Development of Advanced Statistical and AI/ML Platform Solutions
 
-**[TODO: Job title] — [Company]** *(Year–Year)*
-One line that sells it.
-
----
+**Senior: Business & Strategy — IBM Research** *(Nov 2017 - Mar 2021)*
+Accelerating the growth of IBM Research's impact in Emerging Markets, and delivering
+commercially-viable innovations that impact people’s lives. Using ground-breaking
+technologies such as AI, Quantum & Privacy-Preserving Computing.
 
 ## publications
 
