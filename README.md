@@ -10,20 +10,36 @@
 
 <!-- =================== RIGHT COLUMN: SECTIONS =================== -->
 <td width="70%" valign="top">
+##About me 
+
+My name is Kugendran, and I'm a Quantum researcher and Informational Scientist. My goal is the further the development of Quantum algorithms, And Apply it to classical omputing. This will make the benifits of quantum more accessible for all to use, and prove the efficacy of quantum computing, as the Hardware becomes less scares. 
+ 
 
 ## Skills
 
+**development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Quantum-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![GNN](https://img.shields.io/badge/Graph_Neural_Nets-FF6F00?style=for-the-badge)
-![TDA](https://img.shields.io/badge/Topological_Data_Analysis-2E7D32?style=for-the-badge)
 
----
+**AI and Machine Learning**
 
-## Tools
+![Quantum TDA](https://img.shields.io/badge/Quantum_TDA-8B5CF6?style=for-the-badge)
+![GNN](https://img.shields.io/badge/(GNN)-F97316?style=for-the-badge)
+![TDA](https://img.shields.io/badge/(TDA)-8B5CF6?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-F97316?style=for-the-badge)
+![GBT](https://img.shields.io/badge/Gradient_Boosted_Trees-22C55E?style=for-the-badge)
+![Generative Transformers](https://img.shields.io/badge/Generative_Transformers-3B82F6?style=for-the-badge)
+
+**Cloud tech**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
