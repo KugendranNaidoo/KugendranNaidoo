@@ -73,14 +73,6 @@ One line that sells it.
 
 ---
 
-## Stats & Graphs
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kugendran-naidoo&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugendran-naidoo&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=kugendran-naidoo&theme=tokyonight&hide_border=true)
-
-<!-- Keep the existing auto-updating Portfolio Traffic Dashboard table here -->
-
 </td>
 </tr>
 </table>
