@@ -13,7 +13,7 @@
  
 ## About me 
 
-My name is Kugendran, and I'm a Quantum Researcher and Informational Scientist. My goal is the further the development of Quantum algorithms, And Apply it to classical computing. This will make the benifits of quantum more accessible for all to use, and prove the efficacy of quantum computing, as the Hardware becomes less scares. 
+My name is Kugendran, and I'm a Quantum Researcher and Informational Scientist. My goal is the further the development of Quantum algorithms, And Apply it to classical Computing. This will make the benifits of Quantum more accessible for all to use, and prove the efficacy of Quantum Computing, as the Hardware becomes less scares. 
  
 
 ## Skills
