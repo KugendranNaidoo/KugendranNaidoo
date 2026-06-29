@@ -80,10 +80,12 @@ technologies such as AI, Quantum & Privacy-Preserving Computing.
 **Apr 2024**
      See Here At: https://openreview.net/forum?id=dLrhRIMVmB                                  
 
+
 **Representation of the fermionic boundary operator** 
 
 **Aug 2022**
      See Here At: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022407
+
 
 
 **Patent for — Quantum circuit for simulating boundary operator** 
